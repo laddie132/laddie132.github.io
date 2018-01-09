@@ -7,6 +7,10 @@ categories:
 tags: 
 - 论文分享
 - Image Caption
+- NLP
+- DL
+- CV
+
 mathjax: true
 ---
 
