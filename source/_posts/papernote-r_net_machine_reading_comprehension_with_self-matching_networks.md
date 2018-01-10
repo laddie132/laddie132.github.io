@@ -27,8 +27,6 @@ mathjax: true
 
 > 部分方法可参考Wang&Jiang论文《Machine Comprehension Using Match-LSTM and Answer Pointer》
 
-<!-- more -->
-
 ## 问题介绍
 
 在SQuAD数据库中，一个case为可以用一个三元组表示（P，Q，A）：P表示段落（passage），Q表示问题（Question），A表示答案（Answer）。另外，答案通常是在段落中连续出现，且答案较多样化，包含非命名实体以及长短语等特殊情况。

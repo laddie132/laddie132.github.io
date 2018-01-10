@@ -22,8 +22,6 @@ mathjax: true
 > 1. match-LSTM是作者早些时候在文本蕴含（textual entertainment）任务中提出的，可参考《Learning natural language inference with LSTM》
 > 2. 代码：https://github.com/shuohangwang/SeqMatchSeq
 
-<!-- more -->
-
 ## 模型
 
 <img src="/images/match-lstm_ptr-net.png" style="zoom:40%" />
