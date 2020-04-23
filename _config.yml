@@ -5,9 +5,10 @@
 # Site
 title: Hudson's Blog
 subtitle:
-description: 
+description:
+keywords:
 author: Liu Han
-language: zh-CN
+language: en
 timezone:
 
 # URL
@@ -72,7 +73,6 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-# theme: maupassant
 theme: next
 
 # Deployment
@@ -81,22 +81,3 @@ deploy:
   type: git
   repo: https://github.com/laddie132/laddie132.github.io.git
   branch: master
-
-jsonContent:
-  meta: false
-  pages: false
-  posts:
-    title: true
-    date: true
-    path: true
-    text: false
-    raw: false
-    content: false
-    slug: false
-    updated: false
-    comments: false
-    link: false
-    permalink: false
-    excerpt: false
-    categories: false
-    tags: true

@@ -9,7 +9,8 @@ tags:
 - python
 ---
 
-对于初学者，在使用pytorch时，有一些值得注意的地方，记录如下：
+对于初学者，在使用pytorch时，有一些值得注意的地方，记录如下。
+<!-- more -->
 
 ## tensor和variable
 

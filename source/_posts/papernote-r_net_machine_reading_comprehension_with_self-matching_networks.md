@@ -16,14 +16,13 @@ tags:
 mathjax: true
 ---
 
-## 介绍
-
 该文由MSRA发表，在SQuAD数据库上目前成绩最好。模型借鉴了Wang&Jiang最早的match-LSTM方法，做了一些改进，网络结构分为以下四部分：
 
 1. RNN网络分别对question和passage单独编码
 2. 基于门限的注意力循环神经网络（gated-attention based recurrent network）匹配question和passage，获取问题的相关段落表示（question-aware passage representation）
 3. 基于自匹配注意力机制的循环神经网络（self-matching attention network），将passage和它自己匹配，从而实现整个段落的高效编码
 4. 基于指针网络（pointer-network）定位答案所在位置
+<!-- more -->
 
 > 部分方法可参考Wang&Jiang论文《Machine Comprehension Using Match-LSTM and Answer Pointer》
 

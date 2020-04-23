@@ -16,8 +16,8 @@ tags:
 mathjax: true
 ---
 
-## 介绍
 在Machine Comprehension（MC）任务中，早期数据库规模小，主要使用pipeline的方法；后来随着深度学习的发展，2016年，一个比较大规模的数据库出现了，即SQuAD。该文是第一个在SQuAD数据库上测试的端到端神经网络模型。主要结构包括两部分：Match-LSTM和Pointer-Net，并针对Pointer-Net设计了两种使用方法，序列模型（Sequence Model）和边界模型（Boundary Model）。最终训练效果好于原数据库发布时附带的手动抽取特征+LR模型。
+<!-- more -->
 
 > 1. match-LSTM是作者早些时候在文本蕴含（textual entertainment）任务中提出的，可参考《Learning natural language inference with LSTM》
 > 2. 代码：https://github.com/shuohangwang/SeqMatchSeq

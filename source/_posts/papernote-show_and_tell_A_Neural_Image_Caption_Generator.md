@@ -14,9 +14,8 @@ tags:
 mathjax: true
 ---
 
-## 介绍
-
 Image Caption是计算机视觉和自然语言处理相结合的一个任务，作者提出了一种基于神经网络的方法，将用于物体识别的cnn网络和用于机器翻译的lstm网络拼接起来，通过极大化正确描述的似然函数来训练这个网络。发表论文时，pascal数据集上bleu-1得分最高是25分，作者的模型可以到59分，人类水平大约是69分。
+<!-- more -->
 
 <img src="/images/nic-model.png" style="zoom:50%" />
 
