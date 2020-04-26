@@ -5,7 +5,7 @@ categories:
 - Code
 
 tags: 
-- python
+- Python
 ---
 
 在java中，我们常常使用log4j模块来集中处理日志，同样，在python中，有logging模块担任这一功能。

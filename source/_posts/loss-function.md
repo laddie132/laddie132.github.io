@@ -5,10 +5,10 @@ categories:
 - ML/DL/RL
 
 tags:
-- loss
-- DL
-- pytorch
-- python
+- Loss
+- Deep Learning
+- PyTorch
+- Python
 ---
 
 常见损失函数有：均方误差损失函数（MSE）、交叉熵损失函数、对数似然损失函数等。一般情况下，对于回归问题，采用均方误差损失函数；对于分类问题，采用交叉熵或对数似然损失函数。

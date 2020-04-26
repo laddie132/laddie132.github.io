@@ -5,7 +5,7 @@ categories:
 - Code
 
 tags: 
-- spark
+- Spark
 ---
 
 在scala程序中，主函数有两种启动方式：

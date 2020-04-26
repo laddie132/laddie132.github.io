@@ -5,8 +5,8 @@ categories:
 - Code
 
 tags: 
-- pytorch
-- python
+- PyTorch
+- Python
 ---
 
 对于初学者，在使用pytorch 0.3时，有一些值得注意的地方，记录如下，包括tensor和variable、resize和view、requires_grad和viloate等。
