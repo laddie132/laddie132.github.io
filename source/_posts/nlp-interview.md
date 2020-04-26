@@ -14,7 +14,7 @@ tags:
 > 前言
 >
 > 推荐参考书籍如下：
-> 推荐使用Typora打开，阅读效果更好（https://github.com/laddie132/NLP-Interview）
+> 推荐使用Typora打开，阅读效果更好 [ https://github.com/laddie132/NLP-Interview ]
 >
 > - 《统计学习方法（第2版）》- 李航
 > - 《Deep Learning》- Ian Goodfellow等

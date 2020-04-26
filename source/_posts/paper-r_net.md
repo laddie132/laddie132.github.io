@@ -23,6 +23,7 @@ mathjax: true
 <!-- more -->
 
 > 部分方法可参考Wang&Jiang论文《Machine Comprehension Using Match-LSTM and Answer Pointer》
+> PyTorch实现：https://github.com/laddie132/Match-LSTM
 
 ## 问题介绍
 

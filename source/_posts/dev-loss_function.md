@@ -6,7 +6,7 @@ categories:
 
 tags:
 - Loss
-- Deep Learning
+- DL
 - PyTorch
 - Python
 ---

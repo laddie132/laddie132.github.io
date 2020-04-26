@@ -17,7 +17,10 @@ mathjax: true
 这篇论文发表时间比较近，比较全面地总结了match-LSTM、R-Net等众多前人模型的优缺点，并做了很好的改进，如：增加编码层能力，解决长距离上下文信息，提炼预测答案片段，直接优化评价函数等，在SQuAD数据库上取得了State-Of-Art的效果。
 <!-- more -->
 
+> PyTorch实现：https://github.com/laddie132/Match-LSTM
+
 ## 简介
+
 前人的很多模型都具有一个共同的网络框架，即“encoder-interaction-pointer”。首先是将问题和段落的单词序列利用RNN网络编码为向量，接着利用Attention机制捕捉问题和段落之间的关系，最后利用指针网络预测答案的界限。
 
 但是，这种框架具有很明显的缺点：
