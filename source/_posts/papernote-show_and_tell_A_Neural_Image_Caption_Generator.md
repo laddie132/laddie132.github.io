@@ -2,10 +2,10 @@
 title: "论文分享 - Show and Tell: A Neural Image Caption Generator"
 date: 2017-12-25 16:46:00
 categories:
-- Image Caption
+- NLP
 
 tags: 
-- 论文分享
+- Paper
 - Image Caption
 - NLP
 - DL

@@ -2,14 +2,14 @@
 title: "pytorch笔记"
 date: "2018-01-21 00:00:00"
 categories:
-- python
+- Code
 
 tags: 
 - pytorch
 - python
 ---
 
-对于初学者，在使用pytorch时，有一些值得注意的地方，记录如下。
+对于初学者，在使用pytorch 0.3时，有一些值得注意的地方，记录如下，包括tensor和variable、resize和view、requires_grad和viloate等。
 <!-- more -->
 
 ## tensor和variable

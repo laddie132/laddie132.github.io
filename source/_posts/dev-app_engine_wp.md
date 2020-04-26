@@ -2,11 +2,10 @@
 title: 谷歌云平台免费搭建个人博客
 date: 2019-04-04 11:25:58
 categories:
-- 开发
+- Dev
 
 tags: 
 - GCP
-- App Engine
 - WordPress
 ---
 

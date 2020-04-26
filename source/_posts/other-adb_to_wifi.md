@@ -2,11 +2,11 @@
 title: ADB控制安卓WIFI连接（斐讯R1联网指南）
 date: 2019-04-16 08:40:00
 categories:
-- 其他
+- Misc
 
 tags: 
-- 斐讯
-- 安卓
+- Phicomm
+- Android
 - ADB
 ---
 

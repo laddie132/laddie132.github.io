@@ -2,14 +2,12 @@
 title: "论文分享 - R-Net: Machine Reading Comprehension with Self-Matching Networks"
 date: 2018-01-09 12:09:00
 categories:
-- Machine Comprehension
+- NLP
 
 tags: 
-- 论文分享
-- 问答系统
-- Machine Comprehension
-- LSTM
-- Attention
+- Paper
+- QA
+- MRC
 - NLP
 - DL
 

@@ -2,10 +2,9 @@
 title: "python中logging模块使用"
 date: "2018-01-21 00:00:00"
 categories:
-- python
+- Code
 
 tags: 
-- logging
 - python
 ---
 

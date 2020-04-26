@@ -2,14 +2,12 @@
 title: "论文分享 - Machine Comprehension Using Match-LSTM and Answer Pointer"
 date: 2018-01-08 20:11:57
 categories:
-- Machine Comprehension
+- NLP
 
 tags: 
-- 论文分享
-- 问答系统
-- Machine Comprehension
-- LSTM
-- Attention
+- Paper
+- QA
+- MRC
 - NLP
 - DL
 
