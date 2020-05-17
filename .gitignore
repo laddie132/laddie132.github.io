@@ -1,5 +1,6 @@
-/*
-!source/
-!_config.yml
-!.gitignore
-!themes/next/_config.yml
+.deploy_git
+node_modules
+db.json
+package-lock.json
+public
+yuque.json
