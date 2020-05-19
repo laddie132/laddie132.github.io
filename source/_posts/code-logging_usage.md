@@ -1,5 +1,6 @@
 ---
 title: "python中logging模块使用"
+urlname: logging_usage
 date: "2018-01-21 00:00:00"
 categories:
 - Code

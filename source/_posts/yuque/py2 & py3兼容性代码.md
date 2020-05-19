@@ -18,6 +18,8 @@ if sys.version_info[0] < 3:
     sys.setdefaultencoding('utf-8')
 ```
 
+<!-- more -->
+
 ## 编码问题
 
 `from __future__ import unicode_literals`

@@ -1,5 +1,6 @@
 ---
 title: "pytorch笔记"
+urlname: pytorch_notes
 date: "2018-01-21 00:00:00"
 categories:
 - Code

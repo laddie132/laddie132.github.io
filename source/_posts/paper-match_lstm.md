@@ -1,5 +1,6 @@
 ---
 title: "论文分享 - Machine Comprehension Using Match-LSTM and Answer Pointer"
+urlname: match_lstm
 date: 2018-01-08 20:11:57
 categories:
 - NLP

@@ -1,5 +1,6 @@
 ---
 title: NLP算法岗-面试知识点
+urlname: nlp_interview
 date: 2020-04-26 17:23:32
 categories:
 - NLP

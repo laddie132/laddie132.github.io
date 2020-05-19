@@ -1,5 +1,6 @@
 ---
 title: 谷歌云平台免费搭建个人博客
+urlname: app_engine_wp
 date: 2019-04-04 11:25:58
 categories:
 - Dev

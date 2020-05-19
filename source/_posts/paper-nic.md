@@ -1,5 +1,6 @@
 ---
 title: "论文分享 - Show and Tell: A Neural Image Caption Generator"
+urlname: paper_nic
 date: 2017-12-25 16:46:00
 categories:
 - NLP

@@ -1,5 +1,6 @@
 ---
 title: ADB控制安卓WIFI连接（斐讯R1联网指南）
+urlname: adb_to_wifi
 date: 2019-04-16 08:40:00
 categories:
 - Misc

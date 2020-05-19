@@ -1,5 +1,6 @@
 ---
 title: "论文分享 - Reinforced Mnemonic Reader for Machine Comprehension"
+urlnamel: mreader
 date: 2018-01-09 18:13:00
 categories:
 - NLP

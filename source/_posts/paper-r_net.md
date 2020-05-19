@@ -1,5 +1,6 @@
 ---
 title: "论文分享 - R-Net: Machine Reading Comprehension with Self-Matching Networks"
+urlname: rnet
 date: 2018-01-09 12:09:00
 categories:
 - NLP
